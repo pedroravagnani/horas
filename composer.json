@@ -1,0 +1,13 @@
+{
+    "name": "pedroravagnani/horas",
+    "description": "Modulo de apontador de horas feito no HMVC",
+    "type": "module",
+    "license": "FOSS",
+    "authors": [
+        {
+            "name": "Pedro Fonseca",
+            "email": "reisensama2345@gmail.com"
+        }
+    ],
+    "require": {}
+}
