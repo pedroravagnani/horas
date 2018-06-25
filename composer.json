@@ -9,5 +9,10 @@
             "email": "reisensama2345@gmail.com"
         }
     ],
+	"autoload": {
+	"psr-4":{
+			"Horas\\":"controller/"
+		}
+	},
     "require": {}
 }
