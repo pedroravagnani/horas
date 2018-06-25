@@ -2,7 +2,7 @@
     "name": "pedroravagnani/horas",
     "description": "Modulo de apontador de horas feito no HMVC",
     "type": "module",
-    "license": "FOSS",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Pedro Fonseca",
